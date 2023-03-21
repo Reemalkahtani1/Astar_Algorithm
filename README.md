@@ -8,7 +8,7 @@ down -> to swap the bottom two tiles
 left -> to swap the left two tiles
 right -> to swap the right two tiles and the heuristic is based on the misplaced tiles
 
-##A*
+## A*
 
 A* Search algorithms, unlike other traversal techniques, is a smart and fastest algorithm. It is a combination of a Uniform-cost algorithm and a Greedy algorithm it used to calculate the shortest distance between the initial state and the final state, A* achieves optimality and completeness.
 A* algorithm has 3 parameters: -g: the backward cost function -h: the forward cost function,/ and it is a function that estimates how close a state is to a goal -f: the sum of g and h So A* Search orders by the sum of: f(n) = g(n) + h(n)
