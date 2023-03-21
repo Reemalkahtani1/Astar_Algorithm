@@ -18,6 +18,6 @@ We implemented A* algorithm to find the optimal solution.
 for more details please check this link : https://colab.research.google.com/drive/1Cz_UQi-mjIGdx-5DFcLc01lIjgqR0_dL?authuser=1#scrollTo=d157d06c
 
 ## Prepared by
-Reem abdulmohsen
-Neehal 
+Reem abdulmohsen,
+Neehal, 
 Reenad
